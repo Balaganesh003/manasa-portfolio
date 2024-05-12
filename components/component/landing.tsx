@@ -43,7 +43,7 @@ export function Landing() {
       <div
         key="1"
         className="flex flex-col items-center justify-center min-h-[100dvh] max-w-7xl">
-        <section className="w-full flex justify-center items-center pt-24 pb-12 md:pb-24 lg:pb-32 xl:pb-48">
+        <section className="w-full flex justify-center items-center pb-24  min-h-[100dvh]">
           <div className="container px-4 md:px-6 lg:px-16 xl:px-24 w-full">
             <div className="flex flex-col justify-center items-center space-y-6 text-center h-full">
               <div className="space-y-4">
